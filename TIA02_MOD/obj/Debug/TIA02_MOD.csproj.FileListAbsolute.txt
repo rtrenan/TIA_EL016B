@@ -1,0 +1,10 @@
+C:\Users\Renan\Desktop\Projeto TIA\Software\EL016B\TIA02_MOD\bin\Debug\TIA02_MOD.exe
+C:\Users\Renan\Desktop\Projeto TIA\Software\EL016B\TIA02_MOD\bin\Debug\TIA02_MOD.pdb
+C:\Users\Renan\Desktop\Projeto TIA\Software\EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.csprojAssemblyReference.cache
+C:\Users\Renan\Desktop\Projeto TIA\Software\EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.Form1.resources
+C:\Users\Renan\Desktop\Projeto TIA\Software\EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.Properties.Resources.resources
+C:\Users\Renan\Desktop\Projeto TIA\Software\EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.csproj.GenerateResource.cache
+C:\Users\Renan\Desktop\Projeto TIA\Software\EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\Projeto TIA\Software\EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.exe
+C:\Users\Renan\Desktop\Projeto TIA\Software\EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.pdb
+C:\Users\Renan\Desktop\Projeto TIA\Software\EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.Form2.resources
