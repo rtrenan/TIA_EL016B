@@ -28,5 +28,10 @@ namespace TIA02_MOD
             comboBox1.Items.Clear();
             comboBox1.Items.AddRange(ports);
         }
+
+        private void Form2_Load_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
