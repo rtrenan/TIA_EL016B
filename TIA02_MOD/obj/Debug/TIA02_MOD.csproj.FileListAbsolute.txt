@@ -8,3 +8,12 @@ C:\Users\Renan\Desktop\Projeto TIA\Software\EL016B\TIA02_MOD\obj\Debug\TIA02_MOD
 C:\Users\Renan\Desktop\Projeto TIA\Software\EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.exe
 C:\Users\Renan\Desktop\Projeto TIA\Software\EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.pdb
 C:\Users\Renan\Desktop\Projeto TIA\Software\EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.Form2.resources
+C:\Users\USER1\Desktop\githubTIA\TIA_EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.exe
+C:\Users\USER1\Desktop\githubTIA\TIA_EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.pdb
+C:\Users\USER1\Desktop\githubTIA\TIA_EL016B\TIA02_MOD\bin\Debug\TIA02_MOD.exe
+C:\Users\USER1\Desktop\githubTIA\TIA_EL016B\TIA02_MOD\bin\Debug\TIA02_MOD.pdb
+C:\Users\USER1\Desktop\githubTIA\TIA_EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.csprojResolveAssemblyReference.cache
+C:\Users\USER1\Desktop\githubTIA\TIA_EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.Form1.resources
+C:\Users\USER1\Desktop\githubTIA\TIA_EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.Form2.resources
+C:\Users\USER1\Desktop\githubTIA\TIA_EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.Properties.Resources.resources
+C:\Users\USER1\Desktop\githubTIA\TIA_EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.csproj.GenerateResource.Cache

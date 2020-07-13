@@ -31,7 +31,6 @@
             this.button1 = new System.Windows.Forms.Button();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.interfaceToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.sairToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.intervaloDeArmazenamentoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.fundoDeEscalaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.portaDeComunicaçãoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -40,6 +39,7 @@
             this.calibraçãoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.coeficientesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.definirUnidadesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.sairToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
@@ -81,24 +81,16 @@
             this.interfaceToolStripMenuItem.Size = new System.Drawing.Size(73, 21);
             this.interfaceToolStripMenuItem.Text = "Interface";
             // 
-            // sairToolStripMenuItem
-            // 
-            this.sairToolStripMenuItem.ForeColor = System.Drawing.Color.Red;
-            this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
-            this.sairToolStripMenuItem.Size = new System.Drawing.Size(38, 21);
-            this.sairToolStripMenuItem.Text = "Sair";
-            this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
-            // 
             // intervaloDeArmazenamentoToolStripMenuItem
             // 
             this.intervaloDeArmazenamentoToolStripMenuItem.Name = "intervaloDeArmazenamentoToolStripMenuItem";
-            this.intervaloDeArmazenamentoToolStripMenuItem.Size = new System.Drawing.Size(227, 22);
+            this.intervaloDeArmazenamentoToolStripMenuItem.Size = new System.Drawing.Size(254, 22);
             this.intervaloDeArmazenamentoToolStripMenuItem.Text = "Intervalo de Armazenamento";
             // 
             // fundoDeEscalaToolStripMenuItem
             // 
             this.fundoDeEscalaToolStripMenuItem.Name = "fundoDeEscalaToolStripMenuItem";
-            this.fundoDeEscalaToolStripMenuItem.Size = new System.Drawing.Size(227, 22);
+            this.fundoDeEscalaToolStripMenuItem.Size = new System.Drawing.Size(254, 22);
             this.fundoDeEscalaToolStripMenuItem.Text = "Fundo de escala";
             // 
             // portaDeComunicaçãoToolStripMenuItem
@@ -116,32 +108,40 @@
             this.coeficientesToolStripMenuItem,
             this.definirUnidadesToolStripMenuItem});
             this.manutençãoToolStripMenuItem.Name = "manutençãoToolStripMenuItem";
-            this.manutençãoToolStripMenuItem.Size = new System.Drawing.Size(227, 22);
+            this.manutençãoToolStripMenuItem.Size = new System.Drawing.Size(254, 22);
             this.manutençãoToolStripMenuItem.Text = "Manutenção";
             // 
             // testeDeComunicaçãoToolStripMenuItem
             // 
             this.testeDeComunicaçãoToolStripMenuItem.Name = "testeDeComunicaçãoToolStripMenuItem";
-            this.testeDeComunicaçãoToolStripMenuItem.Size = new System.Drawing.Size(195, 22);
+            this.testeDeComunicaçãoToolStripMenuItem.Size = new System.Drawing.Size(212, 22);
             this.testeDeComunicaçãoToolStripMenuItem.Text = "Teste de Comunicação";
             // 
             // calibraçãoToolStripMenuItem
             // 
             this.calibraçãoToolStripMenuItem.Name = "calibraçãoToolStripMenuItem";
-            this.calibraçãoToolStripMenuItem.Size = new System.Drawing.Size(195, 22);
+            this.calibraçãoToolStripMenuItem.Size = new System.Drawing.Size(212, 22);
             this.calibraçãoToolStripMenuItem.Text = "Calibração";
             // 
             // coeficientesToolStripMenuItem
             // 
             this.coeficientesToolStripMenuItem.Name = "coeficientesToolStripMenuItem";
-            this.coeficientesToolStripMenuItem.Size = new System.Drawing.Size(195, 22);
+            this.coeficientesToolStripMenuItem.Size = new System.Drawing.Size(212, 22);
             this.coeficientesToolStripMenuItem.Text = "Coeficientes";
             // 
             // definirUnidadesToolStripMenuItem
             // 
             this.definirUnidadesToolStripMenuItem.Name = "definirUnidadesToolStripMenuItem";
-            this.definirUnidadesToolStripMenuItem.Size = new System.Drawing.Size(195, 22);
+            this.definirUnidadesToolStripMenuItem.Size = new System.Drawing.Size(212, 22);
             this.definirUnidadesToolStripMenuItem.Text = "Definir unidades";
+            // 
+            // sairToolStripMenuItem
+            // 
+            this.sairToolStripMenuItem.ForeColor = System.Drawing.Color.Red;
+            this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
+            this.sairToolStripMenuItem.Size = new System.Drawing.Size(38, 21);
+            this.sairToolStripMenuItem.Text = "Sair";
+            this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
             // 
             // button2
             // 
@@ -184,10 +184,12 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.BackgroundImage = global::TIA02_MOD.Properties.Resources.fundo;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ClientSize = new System.Drawing.Size(1196, 673);
+            this.ControlBox = false;
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
