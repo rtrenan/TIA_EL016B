@@ -30,3 +30,4 @@ C:\Users\Renan\Desktop\Projeto TIA\Software\EL016B\TIA_EL016B\TIA02_MOD\obj\Debu
 C:\Users\Renan\Desktop\Projeto TIA\Software\EL016B\TIA_EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.csproj.CopyComplete
 C:\Users\Renan\Desktop\Projeto TIA\Software\EL016B\TIA_EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.exe
 C:\Users\Renan\Desktop\Projeto TIA\Software\EL016B\TIA_EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.pdb
+C:\Users\Renan\Desktop\Projeto TIA\Software\EL016B\TIA_EL016B\TIA02_MOD\obj\Debug\TIA02_MOD.Form3.resources
