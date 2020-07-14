@@ -50,5 +50,7 @@ namespace TIA02_MOD
             ports.Close();
             Close();
         }
+
+       
     }
 }
