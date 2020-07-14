@@ -32,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Modbus">
+      <HintPath>..\..\..\..\..\Microgenios\C#\NModbus_net-3.5_1.11.0.0-source\source\tools\nmodbus\Modbus.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

@@ -22,7 +22,8 @@ namespace TIA02_MOD
             Close();
         }
 
-       private void Form2_Load(object sender, EventArgs e)
+       
+        private void Form2_Load_1(object sender, EventArgs e)
         {
             String[] ports = SerialPort.GetPortNames();
             comboBox1.Items.Clear();

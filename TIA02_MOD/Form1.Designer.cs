@@ -190,7 +190,6 @@
             this.BackgroundImage = global::TIA02_MOD.Properties.Resources.fundo;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ClientSize = new System.Drawing.Size(1196, 673);
-            this.ControlBox = false;
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
